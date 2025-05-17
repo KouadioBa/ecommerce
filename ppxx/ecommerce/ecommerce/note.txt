@@ -1,0 +1,3 @@
+super admin ----> tout droit sans restriction
+admin ----> droit dans usermanagement, droit dans productmanagement
+user ---> droit dans productmanagement
